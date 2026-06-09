@@ -1,4 +1,4 @@
-"""tests/test_tree.py — 15 tests covering tree.py"""
+"""tests/test_tree.py — 15 tests covering tree.py """
 import unittest
 import numpy as np
 import sys, os
