@@ -21,7 +21,6 @@ plot_feature_importances(importances, feature_names, ...)
 
 import numpy as np
 import matplotlib
-matplotlib.use("Agg")          # non-interactive backend; safe for scripts
 import matplotlib.pyplot as plt
 import matplotlib.ticker as mticker
 
