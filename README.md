@@ -58,7 +58,7 @@ No external ML libraries required. Only NumPy and matplotlib.
 
 ```bash
 # Clone the repo
-git clone https://github.com/YOUR_USERNAME/numcompute-stream.git
+git clone https://github.com/Harshal192/numcompute-stream.git
 cd numcompute-stream
 
 # Install dependencies
